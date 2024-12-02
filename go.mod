@@ -1,1 +1,1 @@
-module calculator
+module example.com/price-calculator
